@@ -3,5 +3,5 @@
 
 Página desplegada en https://nikhogl.github.io/NikhoGL/
 
-Explicación breve dek desarrollo del proyecto en https://youtu.be/zY97dNiiEbk
+Explicación breve del desarrollo del proyecto en https://youtu.be/zY97dNiiEbk
 
