@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #131318;
+}
+form{
+    margin: 40px; 
+    padding-right: 100px; margin-left: 100px;
+}
+button{
+    background-color: #131318;
+    ;
+}
+.form-label{
+    margin-top: 20px;
+}
+.pagination{
+    margin: 30px;
+    justify-content: center ;
+}
+table{
+    margin-inline: 100px;
+}
